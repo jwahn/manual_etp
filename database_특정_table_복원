@@ -1,7 +1,5 @@
 
-kc_etp 에서 tm_etpportal_talk를 날렸을 때 쓴 방법.
-
-
+## kc_etp 에서 tm_etpportal_talk를 날렸을 때 쓴 방법
 
 - dump 파일 위치: /nas/backup/ndb
 - dump 파일명: kc_etp_20210512.cmp
