@@ -1,2 +1,1 @@
-# manual_etp
-manual_etp
+작업하면서 이것저것 기록.
